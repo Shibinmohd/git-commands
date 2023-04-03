@@ -1,6 +1,13 @@
 git init ==> git initialisation 
-Git status ==> list untracked files
 
-Git add -A ==> adding all files to staging area 
+git status ==> list untracked files
 
-Git commit -m "message" ==> moving staged files to local register 
+git add -A ==> adding all files to staging area 
+
+git commit -m "message" ==> moving staged files to local register 
+
+git clone ==> exact copy of remote repository to local space 
+
+git push ==> local space to remote repository 
+
+git pull ==> remote repository to local space 
